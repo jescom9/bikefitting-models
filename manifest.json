@@ -90,5 +90,26 @@
         "sha256": "90723d4dcb6ddda40ef16584e6d31c29e64507092358ebe43217bd646f711d25"
       }
     ]
+  },
+  "m": {
+    "bytes": 56205645,
+    "sha256": "f04d739dcebb43cce86e589ca65f0934959bf42b787b89f4abaa7111baf38a70",
+    "parts": [
+      {
+        "path": "f04d739dcebb43cce86e589ca65f0934959bf42b787b89f4abaa7111baf38a70/part-00.bin",
+        "bytes": 20971520,
+        "sha256": "d834f5f031694ad67561662973b9cbaa077f7f537637960df222a452a57566b4"
+      },
+      {
+        "path": "f04d739dcebb43cce86e589ca65f0934959bf42b787b89f4abaa7111baf38a70/part-01.bin",
+        "bytes": 20971520,
+        "sha256": "0cddba0e36e7c2a1d2bd43d27326d94e7f21e37d09d57d0945317bffa743319c"
+      },
+      {
+        "path": "f04d739dcebb43cce86e589ca65f0934959bf42b787b89f4abaa7111baf38a70/part-02.bin",
+        "bytes": 14262605,
+        "sha256": "ee9b7f397a4dc23b1a3256e3705903dae494d90eae43d4dce1225900b02ac6a1"
+      }
+    ]
   }
 }
